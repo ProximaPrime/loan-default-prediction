@@ -1,5 +1,10 @@
 # 🏦 Loan Default Prediction — Credit Risk Modeling
 
+![Python](https://img.shields.io/badge/Python-3.7+-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+---
 
 ## 📌 Project Overview
 
@@ -109,18 +114,17 @@ Top drivers of default risk include:
 ## 📁 Project Structure
 
 ```
-data/
 notebook/
-output/
 README.md
+Requirements.txt/
+output/
 ```
 
 ---
 
-## 👤 Author
+## 👤 ABIODUN ADETEYE
 
-**Fresh Kent**
-Aspiring Machine Learning Engineer
+DATA SCIENTIST
 
 ---
 
